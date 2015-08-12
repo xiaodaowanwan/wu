@@ -1,8 +1,8 @@
 综合下载页：
-https://github.com/yeahwu/yeahwu/releases
+https://github.com/yeahwu/wu/releases
 
 综合问题讨论页：
-https://github.com/yeahwu/yeahwu/issues
+https://github.com/yeahwu/wu/issues
 
 facebook主页：
 https://www.facebook.com/groups/goproxy/
