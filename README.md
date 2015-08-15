@@ -1,4 +1,4 @@
-## 综合下载页：[https://github.io/wu](https://github.com/yeahwu/wu/releases)
+## 综合下载页：[http://yeahwu.github.io/wu](https://github.com/yeahwu/wu/releases)
 
 ## 综合讨论页：https://github.com/yeahwu/wu/issues
 
